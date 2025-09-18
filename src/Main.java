@@ -39,6 +39,9 @@ public class Main {
         boolean IsItRaining = false;
         System.out.println("Is it raining? " + "false");
 
+        double gasPrice = 3.18;
+        System.out.println("The price of gas is " + gasPrice);
+
         int favNumber = 30;
         System.out.println("My favorite number is " + favNumber);
 
